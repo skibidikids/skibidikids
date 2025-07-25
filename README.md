@@ -7,19 +7,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=skibidikids&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Twitter
-
 <p align="left">
 <a href="https://twitter.com/wangliang__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
 </p>
 
-
-
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,javascript,github,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,javascript,github,vscode,docker" /> <br /><br />
 
-#Tools
-  Cursor, Virtual Box, CentOS and so on.
+# Editor
+<p align="left">
+Cursor,VScode
+  </p> 
   
 # NOW TRAINING
 
