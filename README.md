@@ -24,16 +24,6 @@
 
 <img src="https://skillicons.dev/icons?i=aws,linux,vscode,github,ruby" /> <br /><br />
 
-<p align="left">
-
-  <a href="http://twitter.com/wangliang__">
-    <img height="20" src="https://img.shields.io/twitter/follow/wangliang__?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/skibidikids">
-    <img height="20" src="https://img.shields.io/github/followers/skibidikids?label=follow&logo=github&style=flat" />
-  </a>
-
-</p>
 <!-- --------------------------------- :) ---------------------------------- -->
 
 <br><br><br>
