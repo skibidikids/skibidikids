@@ -1,21 +1,14 @@
-# Backend Developer in Japan👋
-### Just 20 years old 
-### Feel free to contact me anytime!👍
-#
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foo_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
 
 
-# NOW TRAINING
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=skibidikids&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skibidikids&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=skibidikids&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left">
 <a href="https://twitter.com/[]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-###<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
 </p>
 
 
@@ -24,8 +17,8 @@
 
 <img src="https://skillicons.dev/icons?i=python,javascript,github,vscode" /> <br /><br />
 
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+#Tools
+  Cursor, Virtual Box, CentOS and so on.
   
 # NOW TRAINING
 
@@ -34,10 +27,10 @@
 <p align="left">
 
   <a href="http://twitter.com/wangliang__">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/wangliang__?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/skibidikids">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/skibidikids?label=follow&logo=github&style=flat" />
   </a>
 
 </p>
