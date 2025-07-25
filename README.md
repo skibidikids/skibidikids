@@ -7,8 +7,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=skibidikids&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Twitter
+
 <p align="left">
-<a href="https://twitter.com/[]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
+<a href="https://twitter.com/[wangliang__]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
 </p>
 
 
